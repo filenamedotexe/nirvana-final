@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "astro",
+  "outputDirectory": "dist",
+  "git": {
+    "deploymentEnabled": {
+      "main": true,
+      "editing-branch": true
+    }
+  }
+}
