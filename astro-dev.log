@@ -1,0 +1,46 @@
+
+> subsequent-star@0.0.1 dev
+> astro dev
+
+21:26:32 [types] Generated 0ms
+21:26:32 [content] Syncing content
+21:26:32 [content] Synced content
+
+ astro  v5.12.3 ready in 266 ms
+
+┃ Local    http://localhost:3333/
+┃ Network  use --host to expose
+
+21:26:32 watching for file changes...
+21:26:34 [200] / 17ms
+21:26:37 [404] /services/pressure-washing 1ms
+21:26:40 [200] / 2ms
+21:27:03 [watch] guide.md
+21:27:03 [watch] guide.md
+21:27:03 [200] / 5ms
+21:30:20 [watch] .claude/settings.local.json
+21:30:20 [watch] .claude/settings.local.json
+21:30:21 [200] / 5ms
+21:30:21 Configuration file updated. Restarting...
+21:30:21 [watch] package.json
+21:30:21 [watch] package.json
+21:30:21 [vite] Re-optimizing dependencies because vite config has changed
+21:30:22 [content] Syncing content
+21:30:22 [content] Synced content
+21:30:22 [types] Generated 180ms
+21:30:22 [vite] Re-optimizing dependencies because lockfile has changed
+21:30:22 [200] / 12ms
+21:31:09 [watch] src/pages/index.astro
+21:31:09 [watch] src/pages/index.astro
+21:31:10 [200] / 8ms
+21:31:24 [watch] src/pages/index.astro
+21:31:24 [watch] src/pages/index.astro
+21:31:25 [200] / 5ms
+21:31:56 [200] / 1ms
+21:32:01 [vite] ✨ new dependencies optimized: @radix-ui/react-dialog
+21:32:01 [vite] ✨ optimized dependencies changed. reloading
+21:32:01 [200] / 2ms
+21:32:02 [200] / 2ms
+21:32:19 [watch] guide.md
+21:32:19 [watch] guide.md
+21:32:19 [200] / 5ms

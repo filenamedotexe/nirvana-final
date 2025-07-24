@@ -1,0 +1,22 @@
+
+> subsequent-star@0.0.1 dev
+> astro dev
+
+21:09:39 [types] Generated 0ms
+21:09:39 [content] Syncing content
+21:09:39 [content] Synced content
+
+ astro  v5.12.3 ready in 152 ms
+
+┃ Local    http://localhost:6666/
+┃ Network  use --host to expose
+
+21:09:39 watching for file changes...
+21:09:46 [200] / 13ms
+21:10:28 [200] / 4ms
+21:10:34 [200] / 1ms
+21:10:54 [200] / 2ms
+21:11:02 [200] / 1ms
+21:11:20 [200] / 4ms
+21:11:37 [watch] .claude/settings.local.json
+21:11:37 [watch] .claude/settings.local.json

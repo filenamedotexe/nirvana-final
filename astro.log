@@ -1,0 +1,15 @@
+
+> subsequent-star@0.0.1 dev
+> astro dev
+
+21:16:50 [types] Generated 0ms
+21:16:50 [content] Syncing content
+21:16:50 [content] Synced content
+
+ astro  v5.12.3 ready in 152 ms
+
+┃ Local    http://localhost:6666/
+┃ Network  http://10.0.0.111:6666/
+
+21:16:50 watching for file changes...
+21:16:55 [200] / 13ms
